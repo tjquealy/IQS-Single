@@ -15,6 +15,8 @@ window.Webflow.push(() => {
   };
 
   getData();
+
+  //console.log("Test")
   
 
   // Initialize the map
